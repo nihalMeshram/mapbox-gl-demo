@@ -5,8 +5,8 @@
         Docker-compose 1.27.4
 
 # Installation:
-    git clone https://github.com/nihalMeshram/mapbox-demo.git
-    cd mapbox-demo
+    git clone https://github.com/nihalMeshram/mapbox-gl-demo.git
+    cd mapbox-gl-demo
     docker-compose up
 
 # Output:
